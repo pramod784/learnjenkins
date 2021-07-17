@@ -1,0 +1,23 @@
+{
+  "name": "myjenkinsdemo",
+  "version": "1.0.0",
+  "description": "This is demo for jenkins post ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pramod784/learnjenkins.git"
+  },
+  "author": "pramod yewale",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pramod784/learnjenkins/issues"
+  },
+  "homepage": "https://github.com/pramod784/learnjenkins#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {}
+}
